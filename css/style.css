@@ -1,0 +1,169 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F1F1F1;
+  }
+
+.email-container {
+  font-family: sans-serif;
+  font-size: 14px;
+  color: #666;
+  margin-top: 110px;
+  margin: auto;
+  max-width: 600px;
+  background-color: #fff;
+  margin-top: 70px;
+  overflow: auto;
+  background-image: url(../img/title_talk_icon_10block.png);
+  background-repeat: no-repeat;
+  background-position: 427px center ;
+  margin-bottom: 70px;
+  padding-bottom: 40px;
+   }
+
+.email-header {
+  color: #fff;
+  background-image: url(../img/boiman_img_6block.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  margin-top: 5px;
+}
+
+.email-headet-topcolor{
+  padding-top: 65px;
+}
+.email-headet-top{
+  text-align: left;
+}
+
+.email-logo {
+  float: left;
+  display: block;
+}
+.email-logo img{
+  width: 70px;
+}
+
+.email-center {
+  margin: auto;
+  max-width: 600px;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.email-headet-top {
+  padding-top: 100px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 100;
+  line-height: 40px;
+  clear: both;
+  color: #999999;
+  margin-bottom: 60px;
+   }
+.icon{
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  background-image: url(../img/title_talk_icon.png);
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: -12px;
+}
+
+.email-tizers-wrap {
+  font-size: 16px;
+  color: #999999;
+  line-height: 22px;
+}
+.email-tizers-wrap span{
+  color: #e23a3a;
+  display: block;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.mail-products-wrap img {
+  float: left;
+  margin: 20px;
+  width: 200px;
+}
+.mail-products-wrap{
+  text-align: left;
+  font-size: 16px;
+  line-height: 22px;
+  color: #999999;
+  overflow: auto;
+  margin-bottom: 70px;
+}
+.mail-products-wrap p{
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.btn{
+  display: inline-block;
+  background-color: #34A56D;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  padding: 8px 19px;
+  text-decoration: none;
+  border-radius: 30px;
+  font-size: 13px
+}
+
+.email-teazer{
+  background-image: url(../img/bg_4block.jpg);
+  min-height: 103px;
+  clear: both;
+  -webkit-background-size: cover;
+  background-size: cover;
+  color: #fff;
+  position: relative;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 20px 0px;
+}
+.email-teazer b, span{
+  display: block;
+  font-weight: bold;
+}
+.email-teazer span{
+  color: #caa60d;
+}
+.email-teazer b{
+  margin-top: 20px;
+}
+.email-footer {
+  clear: both;
+  background-color: #fff;
+  padding: 70px 0 30px 0;
+  min-height: 50px;
+}
+.foot-logo{
+  display: block;
+}
+.foot-logo img{
+  width: 50px;
+  float: left;
+  margin-right: 15px;
+}
+.copyright{
+  text-align: left;
+  float: left;
+  width: 300px;
+  font-size: 13px;
+  line-height: 21px;
+  margin-top: 5px;
+  color: #999999;
+}
+.copyright a{
+  color: #999999;
+}
+.social-links{
+  float: right;
+  margin-top: 6px;
+}
